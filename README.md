@@ -51,3 +51,6 @@ sudo semodule -i snapd-selinux.pp
 getenforce
 
 snap version
+
+
+#Source : https://forum.snapcraft.io/t/snapd-unavailable-red-hat-enterprise-linux/28004/11
